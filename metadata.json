@@ -1,0 +1,6 @@
+{
+  "name": "WorkSphere",
+  "description": "A Quality Employment Platform that promotes fair wages, trusted employers, and secure payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
